@@ -26,7 +26,7 @@ More information at [Sov.org](https://sov.org/) Visit our ANN thread at [Bitcoin
 <tr><td>Min Stake Age</td><td>60 Blocks / 1 H</td></tr>
 <tr><td>Difficulty Retargeting</td><td>???</td></tr>
 <tr><td>Max Coin Supply</td><td>49 999 999 FDR</td></tr>
-<tr><td>Premine</td><td>1 249 999 FDR</td></tr>
+<tr><td>Premine</td><td>1 249 999 FDR / 2.5 %</td></tr>
 </table>
 
 
