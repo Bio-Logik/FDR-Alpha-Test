@@ -31,10 +31,10 @@ More information at [FDReserve.com](https://www.fdreserve.com/) Visit our ANN th
 
 ### Collateral MasterNode's
 <table>
-<tr><td>Collateral Tier 1</td><td>5000 FDR</td></tr>
-<tr><td>Collateral Tier 2</td><td>10 000 FDR</td></tr>
-<tr><td>Collateral Tier 3</td><td>20 000 FDR</td></tr>
-<tr><td>Collateral Tier 4</td><td>50 000 FDR</td></tr>
+<tr><td>Collateral Tier 1</td><td>5000 FDR</td><td>Activation at block: 211</td></tr>
+<tr><td>Collateral Tier 2</td><td>10 000 FDR</td><td>Activation at block: 43411</td></tr>
+<tr><td>Collateral Tier 3</td><td>20 000 FDR</td><td>Activation at block: 173 011</td></tr>
+<tr><td>Collateral Tier 4</td><td>50 000 FDR</td><td>Activation at block: 500 001</td></tr>
 </table>
 
 ### Reward Distribution
