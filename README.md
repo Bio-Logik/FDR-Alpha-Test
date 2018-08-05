@@ -13,7 +13,7 @@ FDR is a cutting edge cryptocurrency, with many features not available in most o
   technology used to secure the network and provide the above features, each Masternode is secured
   with a collateral of 20 FDR.
 
-More information at [Sov.org](https://sov.org/) Visit our ANN thread at [BitcoinTalk](http://www.bitcointalk.org/index.php)
+More information at [FDReserve.com](https://www.fdreserve.com/) Visit our ANN thread at [BitcoinTalk](http://www.bitcointalk.org/index.php)
 
 
 ### Coin Specificity
@@ -38,7 +38,6 @@ More information at [Sov.org](https://sov.org/) Visit our ANN thread at [Bitcoin
 </table>
 
 ### Reward Distribution
-
 <table>
 <th colspan=4>PoW Phase</th>
 <tr><th>Block Height</th><th>Reward Amount</th><th>Notes</th><th>Duration (Days)</th></tr>
@@ -51,7 +50,6 @@ More information at [Sov.org](https://sov.org/) Visit our ANN thread at [Bitcoin
 
 
 ### PoS Rewards Breakdown
-
 <table>
 <th>Phase</th><th>Block Height</th><th>Reward</th><th>Masternodes</th><th>Stakers</th>
 <tr><td>Phase 1</td><td>3030-518400</td><td>0.05 FDR</td><td>80% (0.04 FDR)</td><td>20% (0.01 FDR)</td></tr>
