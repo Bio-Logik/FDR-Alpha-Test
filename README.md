@@ -31,7 +31,7 @@ More information at [FDReserve.com](https://www.fdreserve.com/) Visit our ANN th
 
 ### Collateral MasterNode's
 <table>
-<tr><td>Collateral Tier 1</td><td></td></tr>
+<tr><td>Collateral Tier 1</td><td>5000</td></tr>
 <tr><td>Collateral Tier 2</td><td></td></tr>
 <tr><td>Collateral Tier 3</td><td></td></tr>
 <tr><td>Collateral Tier 4</td><td></td></tr>
