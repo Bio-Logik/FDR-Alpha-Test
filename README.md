@@ -18,9 +18,9 @@ More information at [Sov.org](https://sov.org/) Visit our ANN thread at [Bitcoin
 
 ### Coin Specs
 <table>
-<tr><td>Algo</td><td></td></tr>
+<tr><td>Algo</td><td>Quark</td></tr>
 <tr><td>Block Time</td><td>60 Seconds</td></tr>
-<tr><td>Difficulty Retargeting</td><td>Every Block</td></tr>
+<tr><td>Difficulty Retargeting</td><td>Every Block (1440 Blocks/ Day)</td></tr>
 <tr><td>Max Coin Supply (PoW Phase)</td><td>11200 SOV</td></tr>
 <tr><td>Max Coin Supply (PoS Phase)</td><td>Infinite</td></tr>
 <tr><td>Premine</td><td>11200 FDR</td></tr>
