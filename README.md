@@ -18,12 +18,15 @@ More information at [Sov.org](https://sov.org/) Visit our ANN thread at [Bitcoin
 
 ### Coin Specs
 <table>
+<tr><td>Ticker</td><td>FDR</td></tr>
+<tr><td>Coin Type</td><td>Tiered MasterNode's / PoS</td></tr>
 <tr><td>Algo</td><td>Quark</td></tr>
-<tr><td>Block Time</td><td>60 Seconds</td></tr>
-<tr><td>Difficulty Retargeting</td><td>Every Block (1440 Blocks/ Day)</td></tr>
-<tr><td>Max Coin Supply (PoW Phase)</td><td>11200 SOV</td></tr>
-<tr><td>Max Coin Supply (PoS Phase)</td><td>Infinite</td></tr>
-<tr><td>Premine</td><td>11200 FDR</td></tr>
+<tr><td>Block Time</td><td>60 Seconds (1440 Blocks / Day)</td></tr>
+<tr><td>Max Block Size</td><td>2 MB / 154 Tx/Sec</td></tr>
+<tr><td>Min Stake Age</td><td>60 Blocks / 1 H</td></tr>
+<tr><td>Difficulty Retargeting</td><td>???</td></tr>
+<tr><td>Max Coin Supply</td><td>49 999 999 FDR</td></tr>
+<tr><td>Premine</td><td>1 249 999 FDR</td></tr>
 </table>
 
 
