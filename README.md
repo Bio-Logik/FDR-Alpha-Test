@@ -16,7 +16,7 @@ FDR is a cutting edge cryptocurrency, with many features not available in most o
 More information at [Sov.org](https://sov.org/) Visit our ANN thread at [BitcoinTalk](http://www.bitcointalk.org/index.php)
 
 
-### Coin Specs
+### Coin Specificity
 <table>
 <tr><td>Ticker</td><td>FDR</td></tr>
 <tr><td>Coin Type</td><td>Tiered MasterNode's / PoS</td></tr>
@@ -29,6 +29,13 @@ More information at [Sov.org](https://sov.org/) Visit our ANN thread at [Bitcoin
 <tr><td>Premine</td><td>1 249 999 FDR / 2.5 %</td></tr>
 </table>
 
+### Collateral MasterNode's
+<table>
+<tr><td>Collateral Tier 1</td><td></td></tr>
+<tr><td>Collateral Tier 2</td><td></td></tr>
+<tr><td>Collateral Tier 3</td><td></td></tr>
+<tr><td>Collateral Tier 4</td><td></td></tr>
+</table>
 
 ### Reward Distribution
 
